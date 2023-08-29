@@ -18,16 +18,11 @@
 
 ### :man_technologist: About Me :
 
-> To reach me: [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayeshashaik2707/)
+> To reach me : <br/> [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayeshashaik2707/)
 
 <hr></hr>
 
 
-### :an_outsider: About Me :
-> I have 4 months of experience in Software Industry at 10xOKR, Banglore, India <br>
-> To reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dhinesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thirudhinesh/)
-
-<hr></hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
