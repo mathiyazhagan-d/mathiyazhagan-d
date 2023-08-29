@@ -21,7 +21,9 @@
 <!-- > To reach me : <br/> [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/)
 
 <hr></hr> -->
-To reach me : <br/> <a href="https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/" target="blank">![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=blue)</a>
+To reach me : <br/> <a href="https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 <hr></hr>
 
