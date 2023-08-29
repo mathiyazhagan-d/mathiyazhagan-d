@@ -18,10 +18,12 @@
 
 ### :man_technologist: About Me :
 
-> To reach me : <br/> [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/)
+<!-- > To reach me : <br/> [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/)
+
+<hr></hr> -->
+To reach me : <br/> <a href="https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)</a>
 
 <hr></hr>
-
 
 
 ### :hammer_and_wrench: Languages and Tools :
