@@ -1,13 +1,13 @@
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"/>
-</div>
+</div> -->
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div> -->
 
 <!--img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/ -->
 
@@ -64,9 +64,6 @@
   <h3> Other Tools </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
-
-
-
 
 <hr></hr>
 
