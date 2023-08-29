@@ -1,8 +1,4 @@
-<div id="header">
-  <div class="left-content">
-    <!-- Content for the left side -->
-  </div>
-  
+
   <div class="center-content" align="center">
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500" />
   </div>
@@ -17,7 +13,7 @@
   </div>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -37,7 +33,7 @@
 > I am currently a graduate of Texas Tech University<img src="https://www.kcbd.com/resizer/hfQIiAtbik8z9x4ik2rpw5dO0h0=/1400x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/MAVN3QCBVFFBBE7KYJAJL7EGX4.jpg" width="30"> residing in Texas, USA <br>
 > I am actively applying for the roles of a ETL Developer/ Data Scientist/ Data Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 > I have 2+ years of experience in Software Industry at Infosys, Hyderabad, India <br>
-> To reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ayesha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayeshashaik2707/)
+> To reach me: [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayeshashaik2707/)
 
 <hr></hr>
 
