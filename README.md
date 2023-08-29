@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-> To reach me : <br/> [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayeshashaik2707/)
+> To reach me : <br/> [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/)
 
 <hr></hr>
 
