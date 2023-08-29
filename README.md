@@ -1,10 +1,10 @@
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=790b76113aefb49d8e067a8b3961941513ab2c2685f60327&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ayeshashaik2707/">
+  <a href="https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -82,4 +82,4 @@
 <hr></hr>
 
 ### :fire: My Stats :
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ayesha-anjum-shaik&theme=dark&background=000000">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=mathiyazhagan-d&theme=dark&background=000000">
