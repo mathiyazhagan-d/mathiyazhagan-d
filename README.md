@@ -1,4 +1,21 @@
-
+<div id="header">
+  <div class="left-content">
+    <!-- Content for the left side -->
+  </div>
+  
+  <div class="center-content" align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500" />
+  </div>
+  
+  <div class="right-content">
+    <!-- Content for the right side -->
+    <div id="badges" align="center">
+      <a href="https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      </a>
+    </div>
+  </div>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="1000"/>
 </div>
