@@ -1,8 +1,4 @@
 
-  <div class="center-content" align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500" />
-  </div>
-  
   <div class="right-content">
     <!-- Content for the right side -->
     <div id="badges" align="center">
