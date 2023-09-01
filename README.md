@@ -28,6 +28,10 @@ To reach me : <br/> <a href="https://www.linkedin.com/in/mathiyazhagan-d-59b0442
 
 <hr></hr>
 
+## :compass: Find me on the web
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Manikandan_Balasubramanian?theme=default&font=baloo&extension=null)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
