@@ -34,7 +34,7 @@ You can find and follow me on:
 [<img alt="Link to the LinkedIn profile of Mathiyazhagan" src="https://img.shields.io/static/v1?label=LinkedIn&message=Follow%20me&labelColor=0077B5&logoColor=ffffff&style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/)
 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <h3> Languages </h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
