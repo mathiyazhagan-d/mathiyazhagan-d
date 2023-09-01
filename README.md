@@ -22,15 +22,17 @@
 <!-- > To reach me : <br/> [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/)
 
 <hr></hr> -->
-To reach me : <br/> <a href="https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
 
 <hr></hr>
 
 ## :compass: Find me on the web
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/mahileet?theme=default&font=baloo&extension=null)
+
+You can find and follow me on:
+
+[<img alt="Link to the LinkedIn profile of Mathiyazhagan" src="https://img.shields.io/static/v1?label=LinkedIn&message=Follow%20me&labelColor=0077B5&logoColor=ffffff&style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
