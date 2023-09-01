@@ -13,10 +13,7 @@
 
 <!-- <img src="https://media.licdn.com/dms/image/D5603AQFeLwEWIpiujw/profile-displayphoto-shrink_800_800/0/1690779334043?e=1698883200&v=beta&t=WrfsWWoUcD7WXXk5Duv9uBHtLa4ujhrUg79ZUmncyXk" alt="Manikandan" align="right" width="40%"> -->
 
-<h1 align="center">
-  Hi There,I am Mathiyazhagan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+## :wave: Hi there, I'm Mathiyazhagan 
 
 ### :man_technologist: About Me :
 <div>Software Engineer</div>
