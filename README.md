@@ -12,7 +12,7 @@
 <!--img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/ -->
 
 <!-- <img src="https://media.licdn.com/dms/image/D5603AQFeLwEWIpiujw/profile-displayphoto-shrink_800_800/0/1690779334043?e=1698883200&v=beta&t=WrfsWWoUcD7WXXk5Duv9uBHtLa4ujhrUg79ZUmncyXk" alt="Manikandan" align="right" width="40%"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasankar-jayavel&label=Profile%20views&color=0e75b6&style=flat" alt="sivasankar-jayavel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathiyazhagan-d&label=Profile%20views&color=0e75b6&style=flat" alt="mathiyazhagan-d" /> </p>
 
 ## :wave: Hi there, I'm Mathiyazhagan 
 
