@@ -11,6 +11,8 @@
 
 <!--img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/ -->
 
+<img src="https://media.licdn.com/dms/image/D5603AQFeLwEWIpiujw/profile-displayphoto-shrink_800_800/0/1690779334043?e=1698883200&v=beta&t=WrfsWWoUcD7WXXk5Duv9uBHtLa4ujhrUg79ZUmncyXk" alt="Manikandan" align="right" width="40%">
+
 <h1 align="center">
   Hello There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -24,7 +26,7 @@
 <hr></hr> -->
 
 
-<hr></hr>
+<!-- <hr></hr> -->
 
 ## :compass: Find me on the web
 
