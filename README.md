@@ -16,7 +16,7 @@
 ## :wave: Hi there, I'm Mathiyazhagan 
 
 ### :man_technologist: About Me :
-<div>Software Engineer</div>
+I'm a proficient Software Engineer skilled in Java, JavaScript, React.js, and Spring Boot. With a solid background in Full Stack Development and a commitment to continuous learning, I'm eager to contribute to innovative projects in dynamic tech environments.
 
 <!-- > To reach me : <br/> [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/)
 
