@@ -14,6 +14,7 @@
 <!-- <img src="https://media.licdn.com/dms/image/D5603AQFeLwEWIpiujw/profile-displayphoto-shrink_800_800/0/1690779334043?e=1698883200&v=beta&t=WrfsWWoUcD7WXXk5Duv9uBHtLa4ujhrUg79ZUmncyXk" alt="Manikandan" align="right" width="40%"> -->
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 ## :wave: Hi there, I'm Mathiyazhagan 
 
 ### :man_technologist: About Me :
