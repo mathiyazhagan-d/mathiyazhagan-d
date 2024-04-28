@@ -16,13 +16,11 @@
 
 
 <div>
-  <h1>Hi there, I'm Mathiyazhagan</h1>
-
+ <h2 style="border-bottom: none;">Hi there, I'm Mathiyazhagan</h2>
   </div>
-  
-### :man_technologist: About Me :
-I'm a proficient Software Engineer skilled in Java, JavaScript, React.js, and Spring Boot. With a solid background in Full Stack Development and a commitment to continuous learning, I'm eager to contribute to innovative projects in dynamic tech environments.
 
+### :man_technologist: About Me :
+I'm a proficient Full Stack Developer | Software Developer at TechnicaX, skilled in Java, Spring Boot, and the MERN stack. With a solid background in Full Stack Development and a commitment to continuous learning, I'm eager to contribute to innovative projects in dynamic tech environments.
 
 
 ## :compass: Find me on the web
