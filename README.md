@@ -15,7 +15,8 @@
 
 
 ## :wave: Hi there, I'm Mathiyazhagan 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="200" />
+
 
 
 ### :man_technologist: About Me :
