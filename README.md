@@ -17,7 +17,7 @@
 ## :wave: Hi there, I'm Mathiyazhagan
 
 <style>
-h2 {
+markdown-body h2 {
   border-bottom: none;
 }
 </style>
