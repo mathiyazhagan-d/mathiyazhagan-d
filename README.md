@@ -14,10 +14,10 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-
-<div>
-  <h2 style="border-bottom: none !important;">Hi there, I'm Mathiyazhagan</h2>
+<div style="margin-bottom: -10px;">
+  <h2 style="border-bottom: none;">Hi there, I'm Mathiyazhagan</h2>
 </div>
+
 
 
 ### :man_technologist: About Me :
