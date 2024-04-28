@@ -16,8 +16,9 @@
 
 
 <div>
- <h2 style="border: none;">Hi there, I'm Mathiyazhagan</h2>
-  </div>
+  <h2 style="border-bottom: none !important;">Hi there, I'm Mathiyazhagan</h2>
+</div>
+
 
 ### :man_technologist: About Me :
 I'm a proficient Full Stack Developer | Software Developer at TechnicaX, skilled in Java, Spring Boot, and the MERN stack. With a solid background in Full Stack Development and a commitment to continuous learning, I'm eager to contribute to innovative projects in dynamic tech environments.
