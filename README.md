@@ -14,15 +14,12 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-## :wave: Hi there, I'm Mathiyazhagan
 
-<style>
-markdown-body h2 {
-  border-bottom: none;
-}
-</style>
+<div>
+  <h1>Hi there, I'm Mathiyazhagan</h1>
 
-
+  </div>
+  
 ### :man_technologist: About Me :
 I'm a proficient Software Engineer skilled in Java, JavaScript, React.js, and Spring Boot. With a solid background in Full Stack Development and a commitment to continuous learning, I'm eager to contribute to innovative projects in dynamic tech environments.
 
