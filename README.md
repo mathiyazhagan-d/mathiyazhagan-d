@@ -14,9 +14,9 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<div style="margin-bottom: -10px;">
-  <h2 style="border-bottom: none;">Hi there, I'm Mathiyazhagan</h2>
-</div>
+| Hi there, I'm Mathiyazhagan |
+|------------------------------|
+
 
 
 
