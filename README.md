@@ -15,12 +15,18 @@
 
 
 
-## :wave: Hi there, I'm Mathiyazhagan 
+<div style="display: flex; align-items: center;">
+  <div>
+    <h2>:wave: Hi there, I'm Mathiyazhagan</h2>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="200" />
-
-### :man_technologist: About Me :
-I'm a proficient Software Engineer skilled in Java, JavaScript, React.js, and Spring Boot. With a solid background in Full Stack Development and a commitment to continuous learning, I'm eager to contribute to innovative projects in dynamic tech environments.
+    <h3>:man_technologist: About Me :</h3>
+    <p>
+      I'm a proficient Software Engineer skilled in Java, JavaScript, React.js, and Spring Boot. With a solid background in Full Stack Development and a commitment to continuous learning, I'm eager to contribute to innovative projects in dynamic tech environments.
+    </p>
+  </div>
+  
+  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</div>
 
 <!-- > To reach me : <br/> [![Linkedin Badge](https://img.shields.io/badge/-mathiyazhagan-d?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mathiyazhagan-d-59b04425b/)
 
