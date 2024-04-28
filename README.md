@@ -16,7 +16,7 @@
 
 
 <div>
- <h2 style="border-bottom: none;">Hi there, I'm Mathiyazhagan</h2>
+ <h2 style="border: none;">Hi there, I'm Mathiyazhagan</h2>
   </div>
 
 ### :man_technologist: About Me :
